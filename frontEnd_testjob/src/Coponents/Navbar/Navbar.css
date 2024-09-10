@@ -1,0 +1,13 @@
+.active{
+    color: #BCA8BA;
+    text-decoration: none;
+}
+
+.normalTab{
+    color: white;
+    text-decoration: none;
+}
+
+.anchor:hover{
+    color: #BCA8BA;
+}
